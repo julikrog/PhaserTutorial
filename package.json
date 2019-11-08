@@ -14,6 +14,9 @@
     "node",
     "game"
   ],
-  "author": "Julie",
-  "license": "ISC"
+  "author": "julikrog",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.20.1"
+  }
 }

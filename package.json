@@ -17,6 +17,6 @@
   "author": "julikrog",
   "license": "ISC",
   "dependencies": {
-    "phaser": "^3.20.1"
+    "phaser": "^3.55.2"
   }
 }
